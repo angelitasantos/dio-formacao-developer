@@ -1,4 +1,4 @@
-Formação HTML Web Developer
+## Formação HTML Web Developer
 
 https://www.w3schools.com/html/default.asp
 <hr>
@@ -13,26 +13,26 @@ Você quer começar no mundo do Front-end? Então essa é a Formação perfeita 
 12 cursos<br>
 3 desafios de projeto<br>
 0 desafios de codigo<br>
-<br>
-01 primeiros passos com html<br>
-	entendendo comunicação client x server<br>
-	introducao ao html na pratica<br>
-	como entregar seu desafio de projeto<br>
-	desafio de projeto: criar uma pagina web utilizando tags aprendidas<br>
-	materias complementares: primeiros passos com html
-<br>
-02 html 1: conceitos basicos<br>
-	trabalhando com formularios<br>
-	estruturando seu html + formatacoes<br>
-	trabalhando com midias<br>
-	criando tabelas<br>
-	desafio de projeto: criando seus primeiro site completo com html<br>
-	materias complementares: conceitos basicos
-<br>
-03 html 2: ampliando o conhecimento<br>
-	entendendo html semantico<br>
-	html: recursos especiais<br>
-	desafio de projeto: recriando o wikipedia com layout moderno<br>
-	materias complementares: amplicando conhecimento<br>
+
+### 01 primeiros passos com html
+	- entendendo comunicação client x server<br>
+	- introducao ao html na pratica<br>
+	- como entregar seu desafio de projeto<br>
+	- desafio de projeto: criar uma pagina web utilizando tags aprendidas<br>
+	- materias complementares: primeiros passos com html
+
+### 02 html 1: conceitos basicos
+	- trabalhando com formularios<br>
+	- estruturando seu html + formatacoes<br>
+	- trabalhando com midias<br>
+	- criando tabelas<br>
+	- desafio de projeto: criando seus primeiro site completo com html<br>
+	- materias complementares: conceitos basicos
+
+### 03 html 2: ampliando o conhecimento
+	- entendendo html semantico<br>
+	- html: recursos especiais<br>
+	- desafio de projeto: recriando o wikipedia com layout moderno<br>
+	- materias complementares: amplicando conhecimento<br>
 
 
